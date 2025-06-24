@@ -23,8 +23,6 @@ Me destaco por mi compromiso, capacidad de aprendizaje y facilidad para trabajar
 
 #### 💻 Desarrollo Web
 - HTML, CSS, JavaScript
-- React.js
-- Node.js  
 - Experiencia con el stack **MERN (MongoDB, Express.js, React.js, Node.js)**
 
 #### 📱 Desarrollo Móvil
